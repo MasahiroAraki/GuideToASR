@@ -1,37 +1,40 @@
-## コンテンツ
+## イラストで学ぶ音声認識
 
-You can use the [editor on GitHub](https://github.com/MasahiroAraki/testpage2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<a href="http://www.kspub.co.jp/book/detail/1538245.html" target="_blank">
+          <img src="images/araki15.png"/>
+</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+荒木雅弘・著 講談社 2015
 
-### Markdown
+ISBN 978-4-06-153824-5
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2,600円(税別)
 
-```markdown
-Syntax highlighted code block
+## 本書の構成
 
-# Header 1
-## Header 2
-### Header 3
+![kousei](images/fig1-7.jpg)
 
-- Bulleted
-- List
+## スライド
 
-1. Numbered
-2. List
+| 章 | pptファイル | PDFファイル |
+|:-----------|------------:|:------------:|
+| 1. はじめに |  [ppt](ppt/chap01.ppt) |  [pdf](pdf/chap01.pdf) |
+| 2. 音声とは | [ppt](ppt/chap02.ppt) |  [pdf](pdf/chap02.pdf) |
+| 3. 統計的パターン認識 | [ppt](ppt/chap03.ppt) | [pdf](pdf/chap03.pdf) |
+| 4. 有限状態オートマトン | [ppt](ppt/chap04.ppt) | [pdf](pdf/chap04.pdf) |
+| 5. 音声からの特徴抽出 | [ppt](ppt/chap05.ppt) | [pdf](pdf/chap05.pdf)  |
+| 6. 音声の認識：基本的な音響モデル | [ppt](ppt/chap06.ppt) | [pdf](pdf/chap06.pdf)  |
+| 7. 音声の認識：高度な音響モデル | [ppt](ppt/chap07.ppt) | [pdf](pdf/chap07.pdf)  |
+| 8. 音声の認識：言語モデル | [ppt](ppt/chap08.ppt)  |[pdf](pdf/chap08.pdf)  |
+| 9. 音声の認識：探索アルゴリズム | [ppt](ppt/chap09.ppt) | [pdf](pdf/chap09.pdf)  |
+| 10. 音声の認識：WFST の演算 | [ppt](ppt/chap10.ppt) | [pdf](pdf/chap10.pdf)  |
+| 11. 音声の認識：WFST による音声認識 | [ppt](ppt/chap11.ppt) | [pdf](pdf/chap11.pdf)  |
+| 12. 意味・意図の解析 | [ppt](ppt/chap12.ppt)  |[pdf](pdf/chap12.pdf)  |
+| 13. 音声対話システムの実現に向けて | [ppt](ppt/chap13.ppt) | [pdf](pdf/chap13.pdf)  |
+| 14. おわりに |  [ppt](ppt/chap14.ppt) | [pdf](pdf/chap14.pdf)  |
 
-**Bold** and _Italic_ and `Code` text
+### 著作権表示
 
-[Link](url) and ![Image](src)
-```
+本サイトで提供されるコンテンツの著作権は、荒木雅弘、（株）講談社にある。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MasahiroAraki/testpage2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+非営利目的に限り、ファイルのダウンロード・印刷・複製を自由に行ってよい。本コンテンツそのものおよび本コンテンツに改変を加えたものを、販売あるいは配布することを禁止する。

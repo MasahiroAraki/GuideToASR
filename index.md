@@ -6,8 +6,12 @@
 * 出版社の公式ホームページ：[http://www.kspub.co.jp/book/detail/1538245.html](http://www.kspub.co.jp/book/detail/1538245.html)
 * 書影  
 <a href="http://www.kspub.co.jp/book/detail/1538245.html" target="_blank">
-          <img src="https://www.kspub.co.jp/book/detail/images/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E5%AD%A6%E3%81%B6%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98.jpg" style="border: 1px"/>
+          <img src="images/araki15.png" style="border: 1px"/>
 </a>
+
+## 章構成
+
+<img src="images/fig1-7.jpg" style="border: 1px"/>
 
 ## スライド
 

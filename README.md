@@ -1,15 +1,7 @@
-# GuideToASR
+# イラストで学ぶ音声認識
 
-イラストで学ぶ音声認識 講談社 のサポートページです。
+荒木雅弘著「<a href="http://www.kspub.co.jp/book/detail/1538245.html">イラストで学ぶ音声認識</a>」（講談社 2015年）のサポートページです。
 
-https://masahiroaraki.github.io/GuideToASR/
+<img src="https://www.kspub.co.jp/book/detail/images/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%81%A7%E5%AD%A6%E3%81%B6%E9%9F%B3%E5%A3%B0%E8%AA%8D%E8%AD%98.jpg" width="200pt"/>
 
-<a href="http://www.kspub.co.jp/book/detail/1538245.html" target="_blank">
-          <img src="images/araki15.png"/>
-</a>
-
-荒木雅弘・著 講談社 2015
-
-ISBN 978-4-06-153824-5
-
-2,600円(税別)
+* [スライド](https://masahiroaraki.github.io/GuideToASR/)

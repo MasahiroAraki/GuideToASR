@@ -17,4 +17,4 @@
 
 ### 1. はじめに
 
-<iframe src="https://www.docswell.com/slide/ZJLW9X/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>
+<iframe src="https://www.docswell.com/slide/KYW8V9/embed" allowfullscreen="true" class="docswell-iframe" width="620" height="406" style="border: 1px solid #ccc; display: block; margin: 0px auto; padding: 0px; aspect-ratio: 620/406;"></iframe>

@@ -1,7 +1,7 @@
 # イラストで学ぶ音声認識
 
-荒木雅弘著「<a href="http://www.kspub.co.jp/book/detail/1538245.html">イラストで学ぶ音声認識</a>」（講談社 2015年）のサポートページです。
+荒木雅弘著「イラストで学ぶ音声認識 改訂第2版」が2025年5月22日に出版されます。
 
-<img src="images/araki15.png" width="200pt"/>
+<img src="images/ASR2.jpg" width="200pt"/>
 
-* [スライド](https://masahiroaraki.github.io/GuideToASR/)
+* [2015年発売 第1版のスライド](https://masahiroaraki.github.io/GuideToASR/)

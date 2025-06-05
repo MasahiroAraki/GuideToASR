@@ -6,7 +6,7 @@
 - 出版社の公式ホームページ：[https://www.kspub.co.jp/book/detail/5394779.html](https://www.kspub.co.jp/book/detail/5394779.html)
 - 書影
   <a href="https://www.kspub.co.jp/book/detail/5394779.html" target="_blank">
-  <img src="images/ASR2.jpg" style="border: 1px"/>
+  <img src="images/ASR2.jpg" width="200pt" style="border: 1px"/>
   </a>
 
 ## 章構成
